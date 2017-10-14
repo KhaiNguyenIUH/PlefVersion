@@ -1,0 +1,51 @@
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\MKO MH4ck.exe.config
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\MKO MH4ck.exe
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\MKO MH4ck.pdb
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.Direct2D1.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.DXGI.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.Direct2D1.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\output\SharpDX.DXGI.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\obj\Debug\PlefVersion v1.0.csproj.GenerateResource.Cache
+C:\Users\8x302\Desktop\MKO_MHck_1_1\obj\Debug\MKO MH4ck.exe
+C:\Users\8x302\Desktop\MKO_MHck_1_1\obj\Debug\MKO MH4ck.pdb
+C:\Users\8x302\Desktop\MKO_MHck_1_1\obj\Debug\PlefVersion.Overlay.resources
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe.config
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe.manifest
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.application
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.pdb
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.Direct2D1.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.DXGI.dll
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.Direct2D1.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\output\SharpDX.DXGI.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion.Overlay.resources
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion v1.0.csproj.GenerateResource.Cache
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.TrustInfo.xml
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.exe.manifest
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.application
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.exe
+C:\Users\8x302\Desktop\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.pdb
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe.config
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe.manifest
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.application
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.exe
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\PlefVersion 1.1.pdb
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.Direct2D1.dll
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.dll
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.DXGI.dll
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.xml
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.Direct2D1.xml
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\output\SharpDX.DXGI.xml
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion v1.0.csprojResolveAssemblyReference.cache
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion.Overlay.resources
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion v1.0.csproj.GenerateResource.Cache
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion v1.0.csproj.CoreCompileInputs.cache
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.TrustInfo.xml
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.exe.manifest
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.application
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.exe
+C:\Users\8x302\Desktop\QuanLyDuongBay\MKO_MHck_1_1\New folder\obj\Debug\PlefVersion 1.1.pdb
